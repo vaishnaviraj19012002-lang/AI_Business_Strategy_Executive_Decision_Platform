@@ -1,0 +1,13 @@
+Date,Region,Product,Sales,Customers,Profit
+2026-01-05,Chennai,Laptop,85000,12,15000
+2026-01-12,Bangalore,Phone,62000,18,12000
+2026-01-20,Chennai,Tablet,45000,15,9000
+2026-02-03,Bangalore,Laptop,92000,14,18000
+2026-02-10,Chennai,Phone,71000,22,14000
+2026-02-18,Mumbai,Tablet,38000,11,7000
+2026-03-02,Chennai,Laptop,105000,16,22000
+2026-03-10,Bangalore,Phone,78000,24,16000
+2026-03-18,Mumbai,Laptop,97000,13,19000
+2026-03-25,Chennai,Tablet,52000,17,11000
+2026-04-05,Bangalore,Laptop,115000,19,25000
+2026-04-12,Mumbai,Phone,69000,20,13500
